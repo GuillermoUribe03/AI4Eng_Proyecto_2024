@@ -1,0 +1,6 @@
+
+#Ignorar todoslos archivos CSV
+*.csv
+
+# Ignorar la carpeta de datos
+/DataLocal/
